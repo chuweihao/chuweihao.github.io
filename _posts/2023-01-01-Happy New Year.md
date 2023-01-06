@@ -4,7 +4,7 @@ tags: General
 article_header:
   type: cover
   image:
-    src: /assets/pittsburgh.jpg
+    src: /assets/images/posts/pittsburgh.jpg
 ---
 
 Happy 2023 everyone! :grin: :fireworks: :tada:
