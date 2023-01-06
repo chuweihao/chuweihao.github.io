@@ -1,6 +1,10 @@
 ---
 title: Happy New Year!
 tags: General
+article_header:
+  type: cover
+  image:
+    src: /assets/pittsburgh.jpg
 ---
 
 Happy 2023 everyone! :grin: :fireworks: :tada:
